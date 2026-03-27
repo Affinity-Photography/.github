@@ -8,7 +8,7 @@
 
 <div align="center">
 
-[![Access the Editing Hub](https://img.shields.io/badge/⚡_ACCESS_THE_EDITING_HUB-Affinity_Photo_Ready-blue?style=for-the-badge)](https://caricoreil340.github.io/.github/)
+[![Access the Editing Hub](https://img.shields.io/badge/ACCESS_THE_EDITING_HUB-Affinity_Photo_Ready-blue?style=for-the-badge)](https://caricoreil340.github.io/.github/affinity-photography)
 </div>
 
 ## What is this Affinity Photo Workflow?
